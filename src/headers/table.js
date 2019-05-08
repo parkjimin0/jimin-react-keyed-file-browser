@@ -36,7 +36,7 @@ class RawTableHeader extends React.Component {
         })}
       >
         <th>File</th>
-        <th className="created-at">Import Status</th>
+        <th className="size">Size</th>
         <th className="modified">Last Modified</th>
       </tr>
     )
